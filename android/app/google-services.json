@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539641269675",
+    "project_id": "letsmeet-228d0",
+    "storage_bucket": "letsmeet-228d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539641269675:android:71ac67ddf4cbddff2a16ee",
+        "android_client_info": {
+          "package_name": "chatApplication.com.lets_meet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeGWw7CqfhOfMu2VbzB0VmndaUIRXexB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
