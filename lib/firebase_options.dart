@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB2Uh9i2od4eIBUsC9WHD16Z4v6ck9sSNU',
-    appId: '1:539641269675:web:74cacba013e5e75d2a16ee',
-    messagingSenderId: '539641269675',
-    projectId: 'letsmeet-228d0',
-    authDomain: 'letsmeet-228d0.firebaseapp.com',
-    storageBucket: 'letsmeet-228d0.appspot.com',
+    apiKey: '#',
+    appId: '#',
+    messagingSenderId: '#',
+    projectId: '#',
+    authDomain: '#',
+    storageBucket: '#',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBeGWw7CqfhOfMu2VbzB0VmndaUIRXexB4',
-    appId: '1:539641269675:android:71ac67ddf4cbddff2a16ee',
-    messagingSenderId: '539641269675',
-    projectId: 'letsmeet-228d0',
-    storageBucket: 'letsmeet-228d0.appspot.com',
+    apiKey: '#',
+    appId: '#',
+    messagingSenderId: '#',
+    projectId: '#',
+    storageBucket: '#',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBoMkNbf68uWuBknw6Zc48XBHAdDfwD9Lg',
-    appId: '1:539641269675:ios:ab871ae67f8b25442a16ee',
-    messagingSenderId: '539641269675',
-    projectId: 'letsmeet-228d0',
-    storageBucket: 'letsmeet-228d0.appspot.com',
-    iosBundleId: 'chatApplication.com.letsMeet',
+    apiKey: '#',
+    appId: '#',
+    messagingSenderId: '#',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBoMkNbf68uWuBknw6Zc48XBHAdDfwD9Lg',
-    appId: '1:539641269675:ios:ab871ae67f8b25442a16ee',
-    messagingSenderId: '539641269675',
-    projectId: 'letsmeet-228d0',
-    storageBucket: 'letsmeet-228d0.appspot.com',
-    iosBundleId: 'chatApplication.com.letsMeet',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyB2Uh9i2od4eIBUsC9WHD16Z4v6ck9sSNU',
-    appId: '1:539641269675:web:8e47eaea335798502a16ee',
-    messagingSenderId: '539641269675',
-    projectId: 'letsmeet-228d0',
-    authDomain: 'letsmeet-228d0.firebaseapp.com',
-    storageBucket: 'letsmeet-228d0.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 }
